@@ -90,16 +90,16 @@ export default function AboutScrollReveal() {
             Creativity meets functionality.
           </h2>
 
-          <div ref={textRef} className="space-y-8" style={{ fontSize: '12px', lineHeight: '6px', fontFamily: 'Georgia' }}>
-            <p className="reveal-text font-light leading-relaxed" style={{ fontSize: '13px', color: '#ffffff' }}>
+          <div ref={textRef} className="space-y-8 text-lg md:text-xl font-body text-white/80 max-w-2xl">
+            <p className="reveal-text font-light leading-relaxed">
               I'm Shoaib Bakshi Sifat, a passionate creator from Bangladesh. 
               Specializing in building modern web applications and impactful graphic designs.
             </p>
-            <p className="reveal-text font-light text-white/90 leading-relaxed">
+            <p className="reveal-text font-light leading-relaxed">
               With a focus on performance and aesthetics, I bridge the gap between 
               complex code and intuitive user experiences.
             </p>
-            <p className="reveal-text font-light text-white/90 leading-relaxed">
+            <p className="reveal-text font-light leading-relaxed">
               Currently a student (SSC 2025), I'm constantly pushing boundaries 
               and exploring the latest in digital craftsmanship.
             </p>
