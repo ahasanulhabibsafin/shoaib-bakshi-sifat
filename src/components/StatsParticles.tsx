@@ -6,7 +6,7 @@ const stats = [
   { value: 20, label: "Projects", suffix: "+" },
   { value: 98, label: "Satisfaction", suffix: "%" },
   { value: 3, label: "Experience", suffix: "+ Years" },
-  { value: 2026, label: "Future Ready", suffix: "" }
+  { value: 2025, label: "Future Ready", suffix: "" }
 ];
 
 function StatItem(props: { stat: typeof stats[0], key?: React.Key }) {

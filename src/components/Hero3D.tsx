@@ -71,7 +71,7 @@ export default function Hero3D() {
             className="inline-block mb-12"
           >
             <span className="text-[10px] md:text-[11px] uppercase font-body font-semibold text-white/50 border-b border-white/20 pb-2">
-              SHOAIB BAKSHI SIFAT — EST. 2026
+              SHOAIB BAKSHI SIFAT — EST. 2025
             </span>
           </motion.div>
 

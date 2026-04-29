@@ -24,7 +24,7 @@ export default function BottomVideo() {
             The Journey Continues.
           </h2>
           <p className="text-white/60 font-body font-light tracking-widest uppercase text-xs">
-            © 2026 SIFAT · CREATED WITH PASSION
+            © 2025 SIFAT · CREATED WITH PASSION
           </p>
         </div>
       </div>
